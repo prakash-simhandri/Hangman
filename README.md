@@ -11,4 +11,8 @@ sudo apt-get update && sudo apt-get install python3
 ```
 # How to run the code?
 
-After finishing installation process, 
+After finishing installation process, you can run the tasks,
+
+```
+Use this command (python3 hangman.py)
+```
